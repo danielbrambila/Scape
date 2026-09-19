@@ -1,0 +1,6 @@
+# ninja log v7
+52	2666	8114895983031491	CMakeFiles/AStarGame.dir/src/Grid.cpp.obj	43700da6b25d6632
+22	2848	8114895982729887	CMakeFiles/AStarGame.dir/src/main.cpp.obj	f154c41bc8ee95d6
+63	3140	8114895983151164	CMakeFiles/AStarGame.dir/src/AStar.cpp.obj	25056b9b76e2b3a1
+34	3384	8114895982898367	CMakeFiles/AStarGame.dir/src/Game.cpp.obj	b48d305f55c7bd63
+3385	4367	8114896016284614	AStarGame.exe	82d045adc829b3d5

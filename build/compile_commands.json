@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/danie/Desktop/AStarGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/danie/Desktop/AStarGame/include -isystem C:/Users/danie/Documents/libreries/SFML-3.1.0/include -g -std=c++17 -o CMakeFiles\\AStarGame.dir\\src\\main.cpp.obj -c C:\\Users\\danie\\Desktop\\AStarGame\\src\\main.cpp",
+  "file": "C:/Users/danie/Desktop/AStarGame/src/main.cpp",
+  "output": "C:/Users/danie/Desktop/AStarGame/build/CMakeFiles/AStarGame.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/danie/Desktop/AStarGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/danie/Desktop/AStarGame/include -isystem C:/Users/danie/Documents/libreries/SFML-3.1.0/include -g -std=c++17 -o CMakeFiles\\AStarGame.dir\\src\\Game.cpp.obj -c C:\\Users\\danie\\Desktop\\AStarGame\\src\\Game.cpp",
+  "file": "C:/Users/danie/Desktop/AStarGame/src/Game.cpp",
+  "output": "C:/Users/danie/Desktop/AStarGame/build/CMakeFiles/AStarGame.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/danie/Desktop/AStarGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/danie/Desktop/AStarGame/include -isystem C:/Users/danie/Documents/libreries/SFML-3.1.0/include -g -std=c++17 -o CMakeFiles\\AStarGame.dir\\src\\Grid.cpp.obj -c C:\\Users\\danie\\Desktop\\AStarGame\\src\\Grid.cpp",
+  "file": "C:/Users/danie/Desktop/AStarGame/src/Grid.cpp",
+  "output": "C:/Users/danie/Desktop/AStarGame/build/CMakeFiles/AStarGame.dir/src/Grid.cpp.obj"
+},
+{
+  "directory": "C:/Users/danie/Desktop/AStarGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -IC:/Users/danie/Desktop/AStarGame/include -isystem C:/Users/danie/Documents/libreries/SFML-3.1.0/include -g -std=c++17 -o CMakeFiles\\AStarGame.dir\\src\\AStar.cpp.obj -c C:\\Users\\danie\\Desktop\\AStarGame\\src\\AStar.cpp",
+  "file": "C:/Users/danie/Desktop/AStarGame/src/AStar.cpp",
+  "output": "C:/Users/danie/Desktop/AStarGame/build/CMakeFiles/AStarGame.dir/src/AStar.cpp.obj"
+}
+]
